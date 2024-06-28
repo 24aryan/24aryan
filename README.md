@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://twitter.com/aryanmishra24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryanmishra24" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mishra-aryan-1a170824a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mishra-aryan-1a170824a" height="30" width="40" /></a>
-  <a href ="https://leetcode.com/u/aryanmishra570/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/(https://www.google.com/imgres?q=leetcode%20logo%20.svg&imgurl=https%3A%2F%2Fcdnl.iconscout.com%2Flottie%2Fpremium%2Fthumb%2Fleetcode-logo-10982203-8859709.gif&imgrefurl=https%3A%2F%2Ficonscout.com%2Flottie-animation%2Fleetcode-logo-10982203&docid=QrDgqBwAENCvyM&tbnid=DbTRjxIKIz7sDM&vet=12ahUKEwj2nd-g2P2GAxUWzzgGHcTwDtUQM3oECEYQAA..i&w=166&h=198&hcb=2&ved=2ahUKEwj2nd-g2P2GAxUWzzgGHcTwDtUQM3oECEYQAA)" alt="aryanmishra570" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
