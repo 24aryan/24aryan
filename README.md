@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=24aryan&label=Profile%20views&color=0e75b6&style=flat" alt="24aryan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/aryanmishra24" target="blank"><img src="https://img.shields.io/twitter/follow/aryanmishra24?logo=twitter&style=for-the-badge" alt="aryanmishra24" /></a> </p>
+<p align="left"> <a href="www.linkedin.com/in/mishra-aryan24" target="blank"><img src="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B%2BQlERTH0Ti%2Bn9YgtsKF2OQ%3D%3D" alt="aryanmishra24" /></a> </p>
 
 - 🔭 I’m currently working on **MERN Stack and Skill building**
   
