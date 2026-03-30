@@ -5,8 +5,3 @@
 - 🔭 I’m currently working on **MERN Stack and Skill building**
   <br>
 - 📫 How to reach me **aryanmishra570@gmail.com**
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=24aryan&show_icons=true&locale=en&layout=compact" alt="24aryan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=24aryan&show_icons=true&locale=en" alt="24aryan" /></p>
-
